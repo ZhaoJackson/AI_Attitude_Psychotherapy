@@ -2,11 +2,7 @@
 
 **Predicting AI Acceptance in Mental Health Interventions through Self-Determination Theory: A Cross-Cultural Study**
 
-Cross-cultural analysis (China-USA, N=2227) examining how self-determination theory predicts acceptance of three AI mental health technologies: avatar therapists, chatbots, and teletherapy.
-
-**Principal Investigator**: Katie Aafjes-van Doorn, PhD (NYU Shanghai)  
-**Analyst**: Jackson Zhao (Columbia University)  
-**Status**: ✅ All analyses complete (Dec 2024)
+Cross-cultural analysis examining how self-determination theory predicts acceptance of three AI mental health technologies: avatar therapists, chatbots, and teletherapy.
 
 ---
 
@@ -25,7 +21,7 @@ This study tests whether basic psychological needs satisfaction (self-determinat
 
 ## Repository Structure
 
-### Analysis Notebooks (Run in Order)
+### Analysis Notebooks
 1. **`Exploratory_Data_Analysis.ipynb`** 
    - Data harmonization (China + USA)
    - Variable construction and imputation
@@ -199,33 +195,9 @@ jupyter notebook H3_Cross_Cultural_Moderation.ipynb
 
 ---
 
-## Next Steps
-
-### For Manuscript
-- [ ] Draft Results section (H1, H2, H3 integrated)
-- [ ] Create interaction plots for H3 (primary finding)
-- [ ] Draft Discussion emphasizing cultural context
-- [ ] Prepare supplementary tables
-
-### Potential Follow-Ups
-- Test specific cultural dimensions (Hofstede indices)
-- Qualitative interviews to understand mechanisms
-- Longitudinal design with actual technology use
-- Expand to additional countries
-
----
-
-## Citation & Acknowledgments
-
-**Recommended Citation** (pre-publication):
-> Zhao, J., & Aafjes-van Doorn, K. (2024). *Predicting AI acceptance in mental health interventions through self-determination theory: A cross-cultural study*. Manuscript in preparation.
-
 **Affiliation**:
 - Katie Aafjes-van Doorn, PhD - NYU Shanghai, Associate Professor in Psychology
 - Jackson Zhao - Columbia University
-
-**Potential Presentation**:
-- Society for Psychotherapy Research (SPR) 2026 Conference, Osaka, Japan
 
 ---
 
@@ -237,27 +209,3 @@ jupyter notebook H3_Cross_Cultural_Moderation.ipynb
 - **Version control**: Git
 
 See `requirements.txt` for complete package list with versions.
-
----
-
-## Project Timeline
-
-- **Nov 2024**: Initial analyses completed
-- **Dec 1-9, 2024**: Framework revision per Katie's specifications
-- **Dec 11, 2024**: All analyses finalized, documentation complete
-- **Dec 12, 2024**: Meeting with Katie to review results
-- **Next**: Manuscript preparation
-
----
-
-## Contact
-
-**For inquiries about this research**:
-- Katie Aafjes-van Doorn: kav9239@nyu.edu
-- Jackson Zhao: zz3119@columbia.edu
-
-**Project Status**: ✅ Analysis complete, ready for manuscript preparation
-
----
-
-*Last updated: December 11, 2024*
